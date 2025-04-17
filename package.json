@@ -64,7 +64,11 @@
     "@supabase/supabase-js": "latest",
     "react-router-dom": "latest",
     "@supabase/auth-ui-react": "latest",
-    "@supabase/auth-ui-shared": "latest"
+    "@supabase/auth-ui-shared": "latest",
+    "@tanstack/react-query": "latest",
+    "@tanstack/react-table": "latest",
+    "react-email": "latest",
+    "nodemailer": "latest"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
